@@ -15,6 +15,6 @@ public class Uni3Exe02 {
         valor.close();
     }
     // // = correção
-    // xxx = erro
+    // xxx = erron
     
 }
