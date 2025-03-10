@@ -8,7 +8,7 @@ public class Uni3Exe01 {
         double num = tec.nextInt();
         System.out.println("Largura> ");
         double num2 = tec.nextInt(); 
-        double area = num + num2;
+        double area = num /* * */+ num2;
         System.out.println("Área> "+ area);
         tec.close();
     }
