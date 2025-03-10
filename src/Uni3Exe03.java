@@ -10,5 +10,6 @@ public class Uni3Exe03 {
         double litros = paga / 6.37;
         System.out.println("O tanque foi abastecido em:"+ litros);
         pag.close();
+        //dfafs
     }
 }
